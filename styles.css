@@ -1,0 +1,52 @@
+body {
+  background-color: #EDF6E5;
+}
+
+hr {
+
+  border-style: dotted none none;
+  width: 10%;
+  border-color:#B5EAEA;
+  border-width:9px;
+}
+
+h1 {
+  color: #F38BA0; text-shadow: 2px 2px 4px violet; font-size:100px; text-align: center;
+}
+
+h3 {
+  color: #FFBCBC; font-size: 50px;
+}
+
+h3:hover {
+  text-shadow: 2px 2px 4px violet;
+}
+
+ul {
+  font-size: 20px;
+}
+
+ol {
+  font-size: 30px;
+}
+
+table {
+  font-size: 20px;
+}
+
+.flower {
+  font-size: 50px; text-align: center;
+}
+
+
+.description {
+  font-size: 20px; text-align: center;
+}
+
+p {
+  font-size: 25px;
+}
+
+.koala:hover {
+  background-color: pink;
+}
